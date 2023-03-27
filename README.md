@@ -5,7 +5,7 @@ For this project, we had to work on an imposed subject, ours being the convex hu
   
 According to the subject, we had to realise a program doing the convex hull of a scatter graph generated randomly, using 3 different methods.  
   
-With this program, you will be able to play with many parameters to draw different Convex hulls.  
+With this program, you will be able to play with many parameters to draw different convex hulls.  
 Note : When you have run the program, you will have a list of the commands available by putting your mouse on the keyboard logo in the top left corner of the window.  
   
 You will also find in this repository our project report, explaining in details how each method works. (only available in French)
