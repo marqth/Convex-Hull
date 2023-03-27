@@ -1,5 +1,5 @@
 # Convex-Hull
-Convex Hull Project - y2022 - in collaboration with J. Racki and M.Morales  
+Convex Hull Project - y2022 - in collaboration with J. Racki and M. Morales  
 
 For this project, we had to work on an imposed subject, ours being the convex hulls.
   
